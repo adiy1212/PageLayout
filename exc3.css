@@ -1,0 +1,53 @@
+body{
+	overflow:scroll;
+	clear: right;
+}
+/* menu design */
+div li{
+	position:relative;
+	display: inline;
+	float:right;
+	background-color: #BDBDBD;
+	margin:5px ;
+}
+
+/* headline design*/
+h1{
+	color: orange;
+	background-color: black;
+	margin:0;
+}
+/* text design*/
+p{
+	position:relative;
+	height: 10px;
+	width:1000px;
+	size: 70px;
+	font-family:"Franklin Gothic Medium";
+	
+}
+/* img design*/
+p>img{
+	height: 100px;
+	width:200px;
+	position:relative;
+	float: right;
+	margin: 0 auto;
+	padding:5px;
+}
+/* link design */
+a:link{
+	color: black;
+	text-decoration: none;	
+}
+
+a:visited{
+	color: purple;
+	text-decoration: none;
+}
+a:hover{
+	color: yellow;
+	text-decoration:underline;
+	font-weight: bold;
+}
+
