@@ -1,0 +1,40 @@
+#container{
+	background-color: #CEF6CE;
+	height: 2000px;
+}
+/*main headline*/
+h1{
+	max-width:300px;
+	margin:0 auto;
+	margin-bottom:5px;
+}
+#gallery{
+	height:1000px;
+	background-color:#E6E6E6;
+	max-width:1000px;
+	margin: 0 auto;
+	
+}
+/*img design*/
+div.img{
+	float:left;
+	width:160px;
+	margin:40px;
+	border:2px solid #0489B1;
+	padding:2px;
+}
+img{
+	width:150px;
+	height:132px;
+	padding:4px;
+	margin: 0 auto;
+	
+}
+div.caption{
+	width:auto;
+	text-align:center;
+	height:auto;
+	/*position:relative;*/
+	/*bottom: 0;*/
+	
+}
